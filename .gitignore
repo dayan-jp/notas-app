@@ -1,0 +1,14 @@
+.env
+
+# Backend (Maven/Java)
+backend/target/
+*.class
+
+# Frontend (Node)
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.idea/
+.vscode/
+*.iml
